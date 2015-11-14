@@ -1,0 +1,13 @@
+
+And line added (I think) in branch called "mock_branch"
+
+I did but only to ythe remote branch (of the same name)
+
+It seem likely that branches are typically made locally first.
+
+So I did that.... I made "mock_branch" locally.
+
+Now let see if the remote branch and the local brach conflict somehow.... exciting!
+
+OK
+
